@@ -79,9 +79,9 @@ Final-year **Electrical Engineering** undergraduate at **Pulchowk Campus, Instit
 | Project | Domain & Stack | Key Highlights |
 | :--- | :--- | :--- |
 | **[Multi-Domain GFM Control Benchmark](https://github.com/Rajubahardar/BE---Final-year-project)** | `MATLAB/Simulink` · `EMT/Phasor` · `IEEE Dashboard` | Benchmarked All-SG, GFL PV, RoCoF-VSG, and Synchronverter topologies on the **WSCC 9-bus** system; achieved **41.7% nadir reduction** and **42.8% faster settling** in high-RES scenarios with a [live interactive dashboard](https://rajubahardar.github.io/BE---Final-year-project/). |
+| **[PSO-Tuned PID Control Optimization](https://github.com/Rajubahardar/PSO-Tuned-PID-Control-Optimization)** | `MATLAB/Simulink` · `Swarm Intelligence` · `LaTeX` | Automated PID synthesis with a Routh–Hurwitz stability barrier on a 3rd-order LTI plant; cut overshoot by **99.9%** (`44.94%` → `0.04%`), sped up settling by **75.7%** (`1.20 s`), reduced load-disturbance drop by **67.5%**, and expanded phase margin to **69.63°** ([technical report](https://github.com/Rajubahardar/PSO-Tuned-PID-Control-Optimization/blob/main/results/project_report.pdf)). |
 | **Deep Learning Motor Fault Detection** | `PyTorch` · `1D-CNN` · `Signal Processing` | Collaborative lab research at Pulchowk Campus classifying 4 induction-motor states (*Healthy, Eccentricity, Broken Bar, Bearing Fault*) from real-time accelerometer vibration telemetry. |
 | **Solar PV Generation Forecasting** | `XGBoost` · `LSTM` · `ARIMA` · `Scikit-learn` | Benchmarked 6 statistical and deep-learning models on weather telemetry for AC/DC solar output prediction with a real-time monitoring interface. |
-| **PSO-Tuned PID Control Optimization** | `MATLAB/Simulink` · `Swarm Intelligence` | Automated PID gain synthesis via Particle Swarm Optimization, minimizing step-response overshoot, settling time, and steady-state error. |
 
 ---
 
@@ -107,7 +107,7 @@ Final-year **Electrical Engineering** undergraduate at **Pulchowk Campus, Instit
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajubahardar&background=ffffff&border=cbd5e1&stroke=cbd5e1&ring=00629b&fire=1d4e89&currStreakNum=0b2545&sideNums=0b2545&currStreakLabel=00629b&sideLabels=334155&dates=64748b" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajubahardar&background=ffffff&border_color=cbd5e1&stroke=cbd5e1&ring=00629b&fire=1d4e89&currStreakNum=0b2545&sideNums=0b2545&currStreakLabel=00629b&sideLabels=334155&dates=64748b" />
 
 </div>
 
